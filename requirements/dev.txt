@@ -19,7 +19,7 @@ babel==2.15.0
     #   sphinx
 cachetools==5.3.3
     # via tox
-certifi==2024.2.2
+certifi==2024.7.4
     # via
     #   -r docs.txt
     #   requests
@@ -59,7 +59,7 @@ iniconfig==2.0.0
     # via
     #   -r tests.txt
     #   pytest
-jinja2==3.1.4
+jinja2==3.1.5
     # via
     #   -r docs.txt
     #   sphinx
@@ -111,7 +111,7 @@ pytest==8.2.0
     # via -r tests.txt
 pyyaml==6.0.1
     # via pre-commit
-requests==2.31.0
+requests==2.32.2
     # via
     #   -r docs.txt
     #   sphinx
@@ -166,7 +166,7 @@ typing-extensions==4.11.0
     # via
     #   -r typing.txt
     #   mypy
-urllib3==2.2.1
+urllib3==2.2.2
     # via
     #   -r docs.txt
     #   requests
